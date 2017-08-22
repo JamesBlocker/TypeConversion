@@ -1,0 +1,6 @@
+c:\users\byron\documents\visual studio 2017\Projects\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+c:\users\byron\documents\visual studio 2017\Projects\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+c:\users\byron\documents\visual studio 2017\Projects\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+c:\users\byron\documents\visual studio 2017\Projects\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojResolveAssemblyReference.cache
+c:\users\byron\documents\visual studio 2017\Projects\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+c:\users\byron\documents\visual studio 2017\Projects\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
